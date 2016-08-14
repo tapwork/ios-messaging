@@ -1,4 +1,4 @@
-# iOS messsenger projects
+# iOS messenger projects
 A list of projects with iOS Open Source messenger, components, API layer, SaaS and more.
 Messaging becomes more and more standard for apps. Also there exist a lot of Open Source projects out there. See the list. Contributing welcome!
 
