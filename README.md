@@ -1,5 +1,5 @@
-# iOS Messenger projects
-A list of iOS Open Source messenger, ViewController &amp; View Components, Model & API layer SaaS and more 
+# iOS messenger Open Source projects
+A list of projects with iOS Open Source messenger, components, API layer, SaaS and more.
 Messaging becomes more and more standard for apps. Also there exist a lot of Open Source projects out there. See the list. Contributing welcome!
 
 # Open Source Messenger
