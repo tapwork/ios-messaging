@@ -74,11 +74,12 @@ Firebase is more than a SaaS messenger. Cloud messaging is part of a big feature
 https://firebase.google.com/features/
 
 # Tutorials
-####iOS XMPP Messenger. Shows a Swift XMPP client built on XMPP Framework, using xmpp-messenger-ios and JSQMessageViewControllerSwift.
+####iOS XMPP Messenger. 
+Shows a Swift XMPP client built on XMPP Framework, using xmpp-messenger-ios and JSQMessageViewControllerSwift.
 https://github.com/processone/xmpp-messenger-ios
 
-# Firebase Tutorial: Real-time Chat
-####Firebase together withJSQMessagesViewController 
+#### Firebase Tutorial: Real-time Chat
+Firebase together withJSQMessagesViewController 
 https://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat
 
 # More discussions & links
