@@ -58,6 +58,10 @@ https://github.com/WhisperSystems/TextSecure-Server
 A productive web framework that does not compromise speed and maintainability.
 https://github.com/phoenixframework/phoenix
 
+####XMPP server software
+Comparison of XMPP server software
+https://xmpp.org/software/servers.html
+
 # SaaS
 ####Layer
 The power of messaging for every mobile and web product
@@ -85,3 +89,5 @@ https://www.raywenderlich.com/122148/firebase-tutorial-real-time-chat
 # More discussions & links
 #### What are good ways to implement (instant) messaging for a startup?
 https://www.quora.com/What-are-good-ways-to-implement-instant-messaging-for-a-startup
+
+
