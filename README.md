@@ -45,6 +45,10 @@ https://github.com/robbiehanson/XMPPFramework
 Swift Phoenix Client is an extension of Starscream websocket client library that makes it easy to connect to Phoenix sockets in a similar manner to the Phoenix Socket Javascript library.
 https://github.com/davidstump/SwiftPhoenixClient
 
+####Phoenix-ObjC
+Phoenix ObjectiveC client
+https://github.com/RokkinCat/phoenix-objc
+
 # Backend
 ####TextSecure Server (Open Whisper Systems)
 The backend for the Signal iOS messenger
